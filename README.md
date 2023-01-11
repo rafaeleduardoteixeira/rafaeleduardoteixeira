@@ -7,7 +7,7 @@ Software Engineer
 I'm Rafael a Software Engineer with 16+ years of experience in the development, architecture, and analysis of software. I'm a committed professional, self-manageable, and engaged with the product.
 
 * 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [Website](http://www.rafaeleteixeira.com.br)
+* 🖥️  See my portfolio on my [Website](http://www.rafaeleteixeira.com.br)
 * ✉️  You can contact me at [rafaeleduardoteixeira@gmail.com](mailto:rafaeleduardoteixeira@gmail.com)
 * 🧠  I'm learning English and more about React
 
