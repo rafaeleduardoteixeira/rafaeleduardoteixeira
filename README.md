@@ -9,7 +9,7 @@ I'm Rafael a Software Engineer with 16+ years of experience in the development, 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio on my [Website](http://www.rafaeleteixeira.com.br)
 * ✉️  You can contact me at [rafaeleduardoteixeira@gmail.com](mailto:rafaeleduardoteixeira@gmail.com)
-* 🧠  I'm learning English and more about React
+* 🧠  I've been learning more about English and React
 
 ### Skills
 
